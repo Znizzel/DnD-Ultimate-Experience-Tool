@@ -1,0 +1,15 @@
+ - Storyboard(s)
+ - Interview plan opstellen
+ - Interviews houden met DM's en spelers en hun input analyseren
+ - input analyse omzetten naar ontwerp
+ - DMIE-Tool visueel ontwerpen
+ - Wizard Of Oz' test opzetten um useability te testen
+ - WOZ resultaat analyseren
+ _- (mogelijk ontwerpen bijstellen en opnieuw WOZ test maken)_
+ - Database opzetten
+ - De front/back-end designen voor het dashboard/scenes
+ - Login functie maken
+ - Streaming service researchen en implementeren
+ - checks inbouwen (logged in? connected streaming device?)
+ - DMIE-tool testen
+ _- (DMIE-tool bugfixing en opnieuw testen)_
