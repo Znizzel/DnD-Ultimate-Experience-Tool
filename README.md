@@ -14,19 +14,19 @@ pre-selected device.
 
 
 
-Phase 2 : DM Interactive Digital-Tabletop-Board
-
-To put this easily, imagen a tv laying on its back so the screen is facing upward and now call it the board. 
-The DM will be able to draw on this board by drag-and-drop houses (and maybe mobs) on it, and the DM is able to draw boundaries 
-(obstacles) The whole field is underdevided in a grid so the players can still navigate on it with their characters.
-
-
-
-Phase 3 : Digital Interactive Charactersheet
+Phase 2 : Digital Interactive Charactersheet
 
 We want to change the papermess everyone refers to as 'charactersheet'. Most sessions this sheets get abused or when taken home get more
 abused or even get lost. We intent to change this to digitalize this sheet into an application. Many hours will be spend into analysing 
 these charactersheets on their data and how we can display this on the most optimalized way possible on a mobile phone.
+
+
+
+Phase 3 : DM Interactive Digital-Tabletop-Board
+
+To put this easily, imagen a tv laying on its back so the screen is facing upward and now call it the board. 
+The DM will be able to draw on this board by drag-and-drop houses (and maybe mobs) on it, and the DM is able to draw boundaries 
+(obstacles) The whole field is underdevided in a grid so the players can still navigate on it with their characters.
 
 
 
